@@ -33,3 +33,8 @@ article {
     font-size: 30px;
     text-align: center;
 }
+
+#byline{
+    background-color: palevioletred;
+    font-style: italic;
+}
